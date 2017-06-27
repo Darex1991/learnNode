@@ -19,3 +19,8 @@ When you are done, you must run:
 
 to proceed. Your program will be tested, a report will be generated, and
 the lesson will be marked 'completed' if you are successful.
+
+
+## Other courses: 
+- [Quora](https://www.quora.com/What-is-the-best-Node-js-course-online)
+- [Hackr.io](https://hackr.io/tutorials/learn-node-js)
